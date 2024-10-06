@@ -6,9 +6,6 @@ Welcome to the **Neon Quiz Application**! This is a dynamic trivia quiz web appl
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 - Select a quiz topic from a variety of options.
